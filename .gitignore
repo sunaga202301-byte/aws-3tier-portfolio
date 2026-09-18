@@ -5,12 +5,12 @@
 *.tfstate
 *.tfstate.*
 
-# AWS・環境変数
+# AWS Environment variables
 .env
 .env.*
 .aws/
 
-# 秘密鍵
+# Private key
 *.pem
 *.key
 
